@@ -9,11 +9,9 @@
 ```sh
 $ EDITOR="nano"  bin/rails credentials:edit
 ```
-* arcgis_api_user_id: xxxxxxxxxxx
-
-* arcgis_api_key: xxxxxxxxxxx
-
-* openweather_api_key: xxxxxxxxxxx
+    arcgis_api_user_id: xxxxxxxxxxx
+    arcgis_api_key: xxxxxxxxxxx
+    openweather_api_key: xxxxxxxxxxx
 2. Install dependencies
 ```ruby
 $ bundle
