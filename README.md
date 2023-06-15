@@ -27,4 +27,3 @@ $ bin/rails server
 ```
 
 
-
